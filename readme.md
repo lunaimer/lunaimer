@@ -1,8 +1,8 @@
 # Selam 👋, Ben Sıla
 ### **Siber Güvenlik Adayı | Frontend Developer**
-
+ 
 <br><br> <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlvMW11OW5uN2lxOWU0cHZyMnJ5dWFpdGcyNWNicGV6YWU3YzEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlvMW11OW5uN2lxOWU0cHZyMnJ5dWFpdGcyNWNicGV6YWU3YzEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="700" height="600" alt="Coding GIF">
 </div>
 
 **Geliştirici perspektifiyle Siber Güvenlik Uzmanlığı yolculuğunda | Frontend altyapımla güvenlik açıklarını anlamaya çalışıyorum**
@@ -94,8 +94,8 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 ## 🌱 Şu anda öğrendiklerim
 
 - **Siber Güvenlik:** TryHackMe, OWASP Top 10, Temel Penetrasyon Testi
-- **Frontend Development:** React, Advanced JavaScript, Modern CSS
-- **Araçlar:** Wireshark, Nmap, Burp Suite temelleri
+- **Frontend Development:** React, Advanced JavaScript, Tailwind
+  
 
 ---
 
@@ -105,4 +105,5 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 
 
 </div>
+
 
