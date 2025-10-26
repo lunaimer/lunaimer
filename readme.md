@@ -1,8 +1,8 @@
 # Selam 👋, Ben Sıla
 ### **Siber Güvenlik Adayı | Frontend Developer**
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlvMW11OW5uN2lxOWU0cHZyMnJ5dWFpdGcyNWNicGV6YWU3YzEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="400" height="300" alt="Coding GIF">
+<br><br> <div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlvMW11OW5uN2lxOWU0cHZyMnJ5dWFpdGcyNWNicGV6YWU3YzEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" alt="Coding GIF">
 </div>
 
 **Geliştirici perspektifiyle Siber Güvenlik Uzmanlığı yolculuğunda | Frontend altyapımla güvenlik açıklarını anlamaya çalışıyorum**
@@ -105,3 +105,4 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 
 
 </div>
+
