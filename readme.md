@@ -1,4 +1,4 @@
-# Selam 👋, Ben Sıla
+# Selam 👋 Ben Sıla
 ### **Siber Güvenlik Adayı | Frontend Developer**
  
 <br><br> <div align="center">
@@ -105,5 +105,6 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 
 
 </div>
+
 
 
