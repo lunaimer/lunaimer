@@ -1,5 +1,9 @@
-# Selam 👋, I'm Sıla
+# Selam 👋, Ben Sıla
 ### **Siber Güvenlik Adayı | Frontend Developer**
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlvMW11OW5uN2lxOWU0cHZyMnJ5dWFpdGcyNWNicGV6YWU3YzEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="400" height="300" alt="Coding GIF">
+</div>
 
 **Geliştirici perspektifiyle Siber Güvenlik Uzmanlığı yolculuğunda | Frontend altyapımla güvenlik açıklarını anlamaya çalışıyorum**
 
@@ -7,7 +11,7 @@ Yazılım geliştirme altyapımla siber güvenlik dünyasına adım atmaya hazı
 
 ---
 
-## 📫 Contact Me
+## 📫 İletişim
 
 <p align="left">
   <a href="https://www.linkedin.com/in/silanur-bas/" target="_blank">
@@ -23,7 +27,7 @@ Yazılım geliştirme altyapımla siber güvenlik dünyasına adım atmaya hazı
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Öne Çıkan Projelerim
 
 ### 🎮 LaWi Game Platform
 **Pygame-based gaming suite with 4 unique games | SQLite database | Tkinter GUI**
@@ -45,9 +49,9 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Teknolojiler & Araçlar
 
-### 💻 Programming Languages
+### 💻 Programlama Dilleri
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -56,7 +60,7 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Veritabanları & Araçlar
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
@@ -64,7 +68,7 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-### 🔧 Other Technologies
+### 🔧 Diğer Teknolojiler
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
@@ -73,7 +77,7 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
 
@@ -87,7 +91,7 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Şu anda öğrendiklerim
 
 - **Siber Güvenlik:** TryHackMe, OWASP Top 10, Temel Penetrasyon Testi
 - **Frontend Development:** React, Advanced JavaScript, Modern CSS
@@ -98,5 +102,6 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 <div align="center">
 
 ### ⭐ **"Kod yazarken kendimi bir dedektif gibi hissediyorum - hata ayıklamak ve güvenlik açıklarını bulmak benim için bir bulmaca çözmek gibi!"** 🕵️‍♂️
+
 
 </div>
