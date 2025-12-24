@@ -37,8 +37,8 @@ A modern, front-end focused web platform that approaches skincare through the co
 Features a responsive interface, a slide-in contact panel, and EmailJS integration to provide real-time user feedback.  
 Designed with a strong emphasis on clean UI, smooth interactions, and user-centered experience.
 
-[🔗 View Project](https://lunaimer.github.io/RITUALE/) |  
-[📁 Repository](https://github.com/lunaimer/RITUALE)
+[**🔗 View Project**](https://lunaimer.github.io/RITUALE/) | 
+[**📁 Repository**](https://github.com/lunaimer/RITUALE)
 
 ---
 
@@ -118,6 +118,7 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 
 
 </div>
+
 
 
 
