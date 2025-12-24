@@ -29,6 +29,19 @@ Yazılım geliştirme altyapımla siber güvenlik dünyasına adım atmaya hazı
 
 ## 🚀 Öne Çıkan Projelerim
 
+### 🌸 Ritualé – Mindful Skincare Web Platform
+
+**Front-end focused modern web platform | Responsive UI | EmailJS integration | UX-driven design**
+
+A modern, front-end focused web platform that approaches skincare through the concept of ritual.  
+Features a responsive interface, a slide-in contact panel, and EmailJS integration to provide real-time user feedback.  
+Designed with a strong emphasis on clean UI, smooth interactions, and user-centered experience.
+
+[🔗 View Project](https://lunaimer.github.io/RITUALE/) |  
+[📁 Repository](https://github.com/lunaimer/RITUALE)
+
+---
+
 ### 🎮 LaWi Game Platform
 **Pygame-based gaming suite with 4 unique games | SQLite database | Tkinter GUI**
 
@@ -105,6 +118,7 @@ Advanced AI system for agricultural applications featuring tomato detection, siz
 
 
 </div>
+
 
 
 
